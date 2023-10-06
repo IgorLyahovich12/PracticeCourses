@@ -32,7 +32,7 @@ public class BinarySearch {
         System.out.println("Час виконання (найгірший випадок): " + executionTime2 + " наносекунд");
     }
 
-    public static int binarySearch(int[] arr, int target) {
+   private static int binarySearch(int[] arr, int target) {
         int left = 0;
         int right = arr.length - 1;
 
