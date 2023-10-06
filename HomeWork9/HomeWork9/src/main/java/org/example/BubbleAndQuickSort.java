@@ -106,5 +106,5 @@ public class BubbleAndQuickSort {
         array[high] = temp;
         return i + 1;
     }
-    // Метод оберненого сортування
+    
 }
